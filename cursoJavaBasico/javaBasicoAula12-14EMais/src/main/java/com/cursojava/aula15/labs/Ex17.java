@@ -2,7 +2,7 @@ package com.cursojava.aula15.labs;
 
 import javax.swing.*;
 
-public class ex17 {
+public class Ex17 {
     public static void main(String[] args) {
         String inputYear = JOptionPane.showInputDialog("Digite o ano: ");
         int year = Integer.parseInt(inputYear);
