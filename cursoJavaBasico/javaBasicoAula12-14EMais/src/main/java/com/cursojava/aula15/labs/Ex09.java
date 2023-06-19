@@ -2,7 +2,7 @@ package com.cursojava.aula15.labs;
 
 import java.util.*;
 
-public class ex09 {
+public class Ex09 {
     public static void main(String[] args) {
         //Faça um Programa que leia três números e mostre-os em ordem decrescente.
         Scanner scan = new Scanner(System.in);

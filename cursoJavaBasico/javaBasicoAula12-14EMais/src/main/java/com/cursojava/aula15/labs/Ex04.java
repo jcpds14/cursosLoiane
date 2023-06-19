@@ -2,7 +2,7 @@ package com.cursojava.aula15.labs;
 
 import java.util.Scanner;
 
-public class ex04 {
+public class Ex04 {
     public static void main(String[] args) {
         //Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
         Scanner scan = new Scanner(System.in);

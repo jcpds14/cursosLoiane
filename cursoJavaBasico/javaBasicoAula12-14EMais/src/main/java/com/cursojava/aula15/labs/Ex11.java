@@ -4,7 +4,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ex11 {
+public class Ex11 {
     public static void main(String[] args) {
         //As Organizações Tabajara resolveram dar um aumento de salário aos
         //seus colaboradores e lhe contraram para desenvolver o programa que

@@ -2,7 +2,7 @@ package com.cursojava.aula15.labs;
 
 import java.util.Scanner;
 
-public class ex08 {
+public class Ex08 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

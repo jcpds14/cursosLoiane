@@ -2,7 +2,7 @@ package com.cursojava.aula15.labs;
 
 import java.util.Scanner;
 
-public class ex05 {
+public class Ex05 {
     public static void main(String[] args) {
         //Faça um programa para a leitura de duas notas parciais de um aluno.
         //O programa deve calcular a média alcançada por aluno e apresentar:

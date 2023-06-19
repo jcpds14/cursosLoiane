@@ -2,7 +2,7 @@ package com.cursojava.aula15.labs;
 
 import java.util.Scanner;
 
-public class ex02 {
+public class Ex02 {
     public static void main(String[] args) {
         //Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
         Scanner scan = new Scanner(System.in);
